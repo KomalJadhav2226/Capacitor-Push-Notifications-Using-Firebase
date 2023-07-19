@@ -1,0 +1,13 @@
+{
+  "name": "org.capacitor.quasar.app",
+  "version": "0.0.1",
+  "description": "A Quasar Project",
+  "author": "Komal Jadhav <komaljadhav2226@gmail.com>",
+  "private": true,
+  "dependencies": {
+    "@capacitor/android": "^5.2.1",
+    "@capacitor/app": "^5.0.0",
+    "@capacitor/cli": "^5.0.0",
+    "@capacitor/core": "^5.0.0"
+  }
+}
